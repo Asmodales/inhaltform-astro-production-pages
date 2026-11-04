@@ -1,0 +1,1 @@
+import{t as e}from"./newsletterController.BVUZB692.js";e();
