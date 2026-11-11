@@ -1,0 +1,1 @@
+import{t as e}from"./newsletterController.ChnINs9v.js";e();
